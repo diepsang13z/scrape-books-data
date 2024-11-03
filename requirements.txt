@@ -1,0 +1,9 @@
+# scrapy
+scrapy
+scrapy-rotating-proxies
+# database
+mysql
+mysql-connector-python
+# another
+ipython
+python-dotenv
